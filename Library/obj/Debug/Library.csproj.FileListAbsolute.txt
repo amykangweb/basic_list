@@ -1,0 +1,6 @@
+c:\users\amy\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.exe.config
+C:\Users\amy\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\Library.exe
+C:\Users\amy\Documents\Visual Studio 2015\Projects\Library\Library\bin\Debug\Library.pdb
+C:\Users\amy\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\amy\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.exe
+C:\Users\amy\Documents\Visual Studio 2015\Projects\Library\Library\obj\Debug\Library.pdb
